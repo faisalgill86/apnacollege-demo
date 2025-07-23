@@ -23,3 +23,5 @@ jaranwala
 Islamabad
 Kashmir
 Sahiwaal
+Narawal
+Bucheki
