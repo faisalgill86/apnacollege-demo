@@ -29,3 +29,4 @@ narowal
 Islamabad
 Lahore
 Samundri
+Nankana Sahib
