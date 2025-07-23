@@ -19,3 +19,4 @@ Lahore
 Faisalabad
 Multan
 Manawala
+jaranwala
