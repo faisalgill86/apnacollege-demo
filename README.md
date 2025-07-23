@@ -12,3 +12,5 @@ Anwar
 Junaid 
 Wahab
 netsol
+
+faisal branch netsol
