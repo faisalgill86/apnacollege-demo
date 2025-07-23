@@ -20,3 +20,6 @@ Faisalabad
 Multan
 Manawala
 jaranwala
+Islamabad
+Kashmir
+Sahiwaal
