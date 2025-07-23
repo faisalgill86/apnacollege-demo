@@ -25,3 +25,6 @@ Kashmir
 Sahiwaal
 Narawal
 Bucheki
+narowal
+Islamabad
+Lahore
