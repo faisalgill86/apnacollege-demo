@@ -14,3 +14,9 @@ Wahab
 netsol
 
 faisal branch netsol
+Junaid is a gentle man
+Lahore
+Faisalabad
+Multan
+Manawala
+jaranwala
